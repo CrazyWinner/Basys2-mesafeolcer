@@ -1,0 +1,5 @@
+vhdl work "ledDriver.vhd"
+vhdl work "binaryToDecimal.vhd"
+vhdl work "binaryTo7segment.vhd"
+vhdl work "anaModul.vhd"
+vhdl work "anasema.vhf"

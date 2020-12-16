@@ -1,0 +1,30 @@
+V3 20
+FL C:/Users/Mertcan/mesafeolcer/anaModul.vhd 2017/11/22.18:42:27 O.61xd
+EN work/anaModul 1511365355 FL C:/Users/Mertcan/mesafeolcer/anaModul.vhd \
+      PB ieee/std_logic_1164 1308643377 PB ieee/NUMERIC_STD 1308643378
+AR work/anaModul/Behavioral 1511365356 \
+      FL C:/Users/Mertcan/mesafeolcer/anaModul.vhd EN work/anaModul 1511365355
+FL C:/Users/Mertcan/mesafeolcer/anasema.vhf 2017/11/22.18:23:17 O.61xd
+EN work/anasema 1511365357 FL C:/Users/Mertcan/mesafeolcer/anasema.vhf \
+      PB ieee/std_logic_1164 1308643377 PB ieee/NUMERIC_STD 1308643378 LB UNISIM \
+      PH unisim/VCOMPONENTS 1308643377
+AR work/anasema/BEHAVIORAL 1511365358 \
+      FL C:/Users/Mertcan/mesafeolcer/anasema.vhf EN work/anasema 1511365357 \
+      CP binaryToDecimal CP ledDriver CP binaryTo7segment CP anaModul
+FL C:/Users/Mertcan/mesafeolcer/binaryTo7segment.vhd 2017/11/21.19:29:51 O.61xd
+EN work/binaryTo7segment 1511365353 \
+      FL C:/Users/Mertcan/mesafeolcer/binaryTo7segment.vhd PB ieee/std_logic_1164 1308643377
+AR work/binaryTo7segment/Behavioral 1511365354 \
+      FL C:/Users/Mertcan/mesafeolcer/binaryTo7segment.vhd \
+      EN work/binaryTo7segment 1511365353
+FL C:/Users/Mertcan/mesafeolcer/binaryToDecimal.vhd 2017/11/21.20:41:14 O.61xd
+EN work/binaryToDecimal 1511365349 \
+      FL C:/Users/Mertcan/mesafeolcer/binaryToDecimal.vhd PB ieee/std_logic_1164 1308643377 \
+      PB ieee/NUMERIC_STD 1308643378
+AR work/binaryToDecimal/Behavioral 1511365350 \
+      FL C:/Users/Mertcan/mesafeolcer/binaryToDecimal.vhd EN work/binaryToDecimal 1511365349
+FL C:/Users/Mertcan/mesafeolcer/ledDriver.vhd 2017/11/21.19:31:17 O.61xd
+EN work/ledDriver 1511365351 FL C:/Users/Mertcan/mesafeolcer/ledDriver.vhd \
+      PB ieee/std_logic_1164 1308643377
+AR work/ledDriver/Behavioral 1511365352 \
+      FL C:/Users/Mertcan/mesafeolcer/ledDriver.vhd EN work/ledDriver 1511365351

@@ -1,0 +1,9 @@
+[Inputs]
+clkIn
+=dataIn[8:0]=
+[Outputs]
+clkOut
+=dataOut1[3:0]=
+=dataOut2[3:0]=
+=dataOut3[3:0]=
+[BiDir]

@@ -1,0 +1,4 @@
+vhdtdtfi -lib work binaryToDecimal.vhd -prj mesafeolcer -o binaryToDecimal.spl -module binaryToDecimal -template C:/Xilinx/13.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e binaryToDecimal.spl C:/Users/Mertcan/mesafeolcer/binaryToDecimal.sym 
+vhdtdtfi -lib work binaryToDecimal.vhd -prj mesafeolcer -o binaryToDecimal.spl -module binaryToDecimal -template C:/Xilinx/13.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e binaryToDecimal.spl C:/Users/Mertcan/mesafeolcer/binaryToDecimal.sym 

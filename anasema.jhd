@@ -1,0 +1,9 @@
+MODULE anasema
+	SUBMODULE binaryToDecimal
+		INSTANCE XLXI_2
+	SUBMODULE ledDriver
+		INSTANCE XLXI_3
+	SUBMODULE binaryTo7segment
+		INSTANCE XLXI_4
+	SUBMODULE anaModul
+		INSTANCE XLXI_5

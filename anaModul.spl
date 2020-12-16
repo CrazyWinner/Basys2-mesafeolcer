@@ -1,0 +1,9 @@
+[Inputs]
+echoPin
+clkIn
+[Outputs]
+trigPin
+clkOut
+=degerOut[8:0]=
+=ledOut[7:0]=
+[BiDir]

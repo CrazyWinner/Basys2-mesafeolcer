@@ -1,0 +1,296 @@
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 
+xst -intstyle ise -ifn "C:/Users/Mertcan/mesafeolcer/anasema.xst" -ofn "C:/Users/Mertcan/mesafeolcer/anasema.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Mertcan/Desktop/mesafeolcer.ucf -p xc3s100e-cp132-5 anasema.ngc anasema.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o anasema_map.ncd anasema.ngd anasema.pcf 
+par -w -intstyle ise -ol high -t 1 anasema_map.ncd anasema.ncd anasema.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml anasema.twx anasema.ncd -o anasema.twr anasema.pcf 
+bitgen -intstyle ise -f anasema.ut anasema.ncd 

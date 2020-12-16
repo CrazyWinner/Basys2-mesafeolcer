@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Mertcan/mesafeolcer/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Mertcan/mesafeolcer/xst"
+elaborate
+-ifn binaryTo7segment.prj
+-ifmt mixed

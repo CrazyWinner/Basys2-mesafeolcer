@@ -1,0 +1,2 @@
+vhdtdtfi -lib work binaryTo7segment.vhd -prj mesafeolcer -o binaryTo7segment.spl -module binaryTo7segment -template C:/Xilinx/13.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e binaryTo7segment.spl C:/Users/Mertcan/mesafeolcer/binaryTo7segment.sym 

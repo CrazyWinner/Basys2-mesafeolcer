@@ -1,0 +1,5 @@
+[Inputs]
+=veriIN[3:0]=
+[Outputs]
+=outSegment[6:0]=
+[BiDir]

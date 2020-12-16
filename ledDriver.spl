@@ -1,0 +1,9 @@
+[Inputs]
+clkIn
+=dataIn1[3:0]=
+=dataIn2[3:0]=
+=dataIn3[3:0]=
+[Outputs]
+=dataOut[3:0]=
+=chipSelect[3:0]=
+[BiDir]

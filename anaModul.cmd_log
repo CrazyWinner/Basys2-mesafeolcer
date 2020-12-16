@@ -1,0 +1,6 @@
+vhdtdtfi -lib work anaModul.vhd -prj mesafeolcer -o anaModul.spl -module anaModul -template C:/Xilinx/13.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e anaModul.spl C:/Users/Mertcan/mesafeolcer/anaModul.sym 
+vhdtdtfi -lib work anaModul.vhd -prj mesafeolcer -o anaModul.spl -module anaModul -template C:/Xilinx/13.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e anaModul.spl C:/Users/Mertcan/mesafeolcer/anaModul.sym 
+vhdtdtfi -lib work anaModul.vhd -prj mesafeolcer -o anaModul.spl -module anaModul -template C:/Xilinx/13.2/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e anaModul.spl C:/Users/Mertcan/mesafeolcer/anaModul.sym 
